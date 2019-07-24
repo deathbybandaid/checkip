@@ -52,8 +52,6 @@ def check_ip_change(old, new):
         return True
 
     elif str(old) != str(new):
-        print(old)
-        print(new)
         return True
 
     else:
