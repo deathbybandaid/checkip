@@ -10,3 +10,4 @@ Use at your own risk. Problems are not my fault™.
 * add configuration options
 * make pip package
 * anything that the aprise package can handle, is a possible messaging option
+* allow for use on other OS, this testing was done on Buster, and saves to a file in `/opt`
